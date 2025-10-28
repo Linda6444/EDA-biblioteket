@@ -1,0 +1,31 @@
+book_title,category,branch,loan_date,return_date,loan_duration_days
+The Silent Patient,Fiction,Central Library,2025-01-12,2025-02-02,21
+Becoming,Biography,Westside Branch,2025-01-18,2025-02-03,16
+Where the Crawdads Sing,Fiction,Central Library,2025-02-05,2025-02-25,20
+Educated,Biography,North Branch,2025-02-11,2025-02-26,15
+Atomic Habits,Self-help,Central Library,2025-02-18,2025-03-05,15
+The Midnight Library,Fiction,Central Library,2025-03-02,2025-03-23,21
+The Body Keeps the Score,Health,Eastside Branch,2025-03-10,2025-03-31,21
+The Subtle Art of Not Giving a F*ck,Self-help,Westside Branch,2025-03-15,2025-03-29,14
+Educated,Biography,Central Library,2025-03-22,2025-04-10,19
+The Alchemist,Fiction,Eastside Branch,2025-04-05,2025-04-22,17
+Becoming,Biography,North Branch,2025-04-10,2025-04-28,18
+The 4-Hour Workweek,Self-help,Central Library,2025-04-20,2025-05-03,13
+The Silent Patient,Fiction,Westside Branch,2025-05-02,2025-05-21,19
+The Midnight Library,Fiction,North Branch,2025-05-10,2025-05-31,21
+The Body Keeps the Score,Health,Central Library,2025-05-20,2025-06-07,18
+The Alchemist,Fiction,Westside Branch,2025-06-02,2025-06-17,15
+Becoming,Biography,Central Library,2025-06-15,2025-07-05,20
+Atomic Habits,Self-help,Eastside Branch,2025-06-25,2025-07-09,14
+The Silent Patient,Fiction,Central Library,2025-07-10,2025-07-31,21
+Educated,Biography,Central Library,2025-07-20,2025-08-04,15
+The Alchemist,Fiction,Central Library,2025-08-02,2025-08-21,19
+The Midnight Library,Fiction,Central Library,2025-08-12,2025-08-29,17
+The 4-Hour Workweek,Self-help,North Branch,2025-08-15,2025-09-01,17
+The Body Keeps the Score,Health,Central Library,2025-09-05,2025-09-25,20
+Where the Crawdads Sing,Fiction,Westside Branch,2025-09-12,2025-09-29,17
+Atomic Habits,Self-help,Central Library,2025-09-20,2025-10-04,14
+The Alchemist,Fiction,Eastside Branch,2025-09-28,2025-10-15,17
+Becoming,Biography,Central Library,2025-10-05,2025-10-22,17
+Educated,Biography,Eastside Branch,2025-10-12,2025-10-28,16
+The Subtle Art of Not Giving a F*ck,Self-help,Westside Branch,2025-10-18,2025-11-02,15
